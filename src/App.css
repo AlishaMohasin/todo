@@ -1,0 +1,87 @@
+
+
+.App {
+  text-align: center;
+  height: 400px;
+  width:57%;
+  margin:auto;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAjVBMVEUdGyb///8AABGsq64AAAAAAAbBwMIPDBtwb3MdGyUYFSJNTFI4Nz8VEyDu7e8AAAwAABQAAAkAABO0s7bY19kMCBlTUlmhoKPJyMqamZz5+fkjISre3d+OjZHQ0NFjYmd/f4N4d33o5+kvLjVZV1+dnJ8oJi9JSE9+fYE/PkWHh4m6urw1NDyvr7JxcHQPlovJAAAElElEQVR4nO2Za1PiMBSGsZxSWywUS4GCgIsIisv+/5+3UKyWXpLgBp13530+MMM0nOYh95xW22n959AQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40/DJh1JcD/ST491hB4rjHWFH4hR+bGPqtSNSULcKBjOb7yXDYGe+exKlInsdz7+tr7mefQSRPj+3OYjiJ05EMLpY0akN3cqPm7swhlPVb4eFqvBkEzfF6D5N0XVvzzFBm41WhdGct3jUMO5cYymhYfr6fRep407gr546nBky8uFz0YS0/axi47ZoC0z+iizd57VdeLLfTmpL7/iVd1bZhOHuoL/Is2nhzyZsuFxzXxxpuLlC0bBjOVk1lYtHGi8/7n1R6aM5qE579Fd9o6DQK3tykrjbemaKkzbEeqj36Owx9X5QF15423nzw8VJvqYoVG083Fg39VnKrLNUTfbzt+wg7rMF1k8wnS9NFw2ovlZ66WOpo4y3yf8FpmGVyVqaNaNMwedEU67n6eKNTI/qJJpZxI9o0lMpKX+bW08Z7O41EZ6eLNXGbK3wtw0BXqZuOq403PfU+WWiDDZorfCXD5FFbqV6kj9fNummojWXaTS3uvPt127UST4HW8CU5Cr7qY6WRutbmhn4reO1m3JVfstueHsyO5Qw61vs8ojQcH2uU/NLHis1WfbMTcBBmSPklt9HpQVbIbdiRnv3A0xpmFY8U+5mcidl6YdSGOVVDr/DUkmE2G0XP+lgLa4af1BkWnn53G5otFzYNDcZhVz8On39kHBoZOjbn0q0+lr251NTQYD1cnd6mNNyarocjs2OwRcPA11bqfUumMuz9yJ7GxNA3mWqW+n3p/jS6Eu2+tGNzX2pi2DLopvkBUWXYNT1bGHZSq4ba8+Eu0hp+LOO6PeDQ6vnQzNDXzfErgzP+7yAPFqrP+F3T6zarbeiLcoue31AoDB8/q6O+EhnbvacxNTzsXxV3bY8fK3Sj4Vm9RdFPF+KbXifaNWyFT41DMdXfl5YaRt7qix0G4QUZLcuGLW/T0Ipz7Z339Fe558m+PtbkkpSdbcNW6NRVv7curs+1hp1NVOl48lI33aSVbN71DP/UXSTIsrLyj53iMavGsNe+q632/aZSdPFquJn5kmHvnGlNGx7wZFmcU1dpUDoFlPKHnXQk/Y9VosDhSyC/24WhPY23cmGO9LIst1vK/Ta9zHNlncZZDvhlJtUzQCkHXMheV2fIwJG7XfsQa7Kfb+WixFrG9fL498c8vmsrjy9XzeNjQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+NAQHxriQ0N8aIgPDfGhIT40xIeG+Pz3hn8Baxc9EGM39jwAAAAASUVORK5CYII=");
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.main{
+  width: 35%;
+  margin: auto;
+  padding: 10px;
+  margin-top: 40px;
+}
+.add-button{
+  padding: 5px 10px;
+  font-size: 15px;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: white;
+  font-weight: bolder;
+  border: 0px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.checkbox
+{
+  margin-right: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+
+}
+
+.delete
+{
+  font-weight: bolder;
+  margin-left: 45%;
+  font-size: 20px;
+  border: none;
+  background-color: teal;
+  border-radius: 50px;
+  height: 25px;
+  width: 25px;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} 
